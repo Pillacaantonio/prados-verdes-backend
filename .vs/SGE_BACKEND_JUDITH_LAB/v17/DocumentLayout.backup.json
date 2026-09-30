@@ -3,80 +3,56 @@
   "WorkspaceRootPath": "D:\\SIDE\\BACKEND-JUDITHLAB\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B34276A6-1AEC-4E71-B570-9AA6D0A5A30E}|SGE_BACKEND_JUDITH_LAB\\SGE_BACKEND_JUDITH_LAB.csproj|d:\\side\\backend-judithlab\\sge_backend_judith_lab\\controllers\\metodopagocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B34276A6-1AEC-4E71-B570-9AA6D0A5A30E}|SGE_BACKEND_JUDITH_LAB\\SGE_BACKEND_JUDITH_LAB.csproj|solutionrelative:sge_backend_judith_lab\\controllers\\metodopagocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B34276A6-1AEC-4E71-B570-9AA6D0A5A30E}|SGE_BACKEND_JUDITH_LAB\\SGE_BACKEND_JUDITH_LAB.csproj|d:\\side\\backend-judithlab\\sge_backend_judith_lab\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B34276A6-1AEC-4E71-B570-9AA6D0A5A30E}|SGE_BACKEND_JUDITH_LAB\\SGE_BACKEND_JUDITH_LAB.csproj|solutionrelative:sge_backend_judith_lab\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B34276A6-1AEC-4E71-B570-9AA6D0A5A30E}|SGE_BACKEND_JUDITH_LAB\\SGE_BACKEND_JUDITH_LAB.csproj|d:\\side\\backend-judithlab\\sge_backend_judith_lab\\models\\metodopago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B34276A6-1AEC-4E71-B570-9AA6D0A5A30E}|SGE_BACKEND_JUDITH_LAB\\SGE_BACKEND_JUDITH_LAB.csproj|solutionrelative:sge_backend_judith_lab\\models\\metodopago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B34276A6-1AEC-4E71-B570-9AA6D0A5A30E}|SGE_BACKEND_JUDITH_LAB\\SGE_BACKEND_JUDITH_LAB.csproj|d:\\side\\backend-judithlab\\sge_backend_judith_lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B34276A6-1AEC-4E71-B570-9AA6D0A5A30E}|SGE_BACKEND_JUDITH_LAB\\SGE_BACKEND_JUDITH_LAB.csproj|solutionrelative:sge_backend_judith_lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B34276A6-1AEC-4E71-B570-9AA6D0A5A30E}|SGE_BACKEND_JUDITH_LAB\\SGE_BACKEND_JUDITH_LAB.csproj|d:\\side\\backend-judithlab\\sge_backend_judith_lab\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B34276A6-1AEC-4E71-B570-9AA6D0A5A30E}|SGE_BACKEND_JUDITH_LAB\\SGE_BACKEND_JUDITH_LAB.csproj|solutionrelative:sge_backend_judith_lab\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B34276A6-1AEC-4E71-B570-9AA6D0A5A30E}|SGE_BACKEND_JUDITH_LAB\\SGE_BACKEND_JUDITH_LAB.csproj|d:\\side\\backend-judithlab\\sge_backend_judith_lab\\services\\metodopagoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B34276A6-1AEC-4E71-B570-9AA6D0A5A30E}|SGE_BACKEND_JUDITH_LAB\\SGE_BACKEND_JUDITH_LAB.csproj|solutionrelative:sge_backend_judith_lab\\services\\metodopagoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B34276A6-1AEC-4E71-B570-9AA6D0A5A30E}|SGE_BACKEND_JUDITH_LAB\\SGE_BACKEND_JUDITH_LAB.csproj|d:\\side\\backend-judithlab\\sge_backend_judith_lab\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B34276A6-1AEC-4E71-B570-9AA6D0A5A30E}|SGE_BACKEND_JUDITH_LAB\\SGE_BACKEND_JUDITH_LAB.csproj|solutionrelative:sge_backend_judith_lab\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B34276A6-1AEC-4E71-B570-9AA6D0A5A30E}|SGE_BACKEND_JUDITH_LAB\\SGE_BACKEND_JUDITH_LAB.csproj|d:\\side\\backend-judithlab\\sge_backend_judith_lab\\interfaces\\idestinoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B34276A6-1AEC-4E71-B570-9AA6D0A5A30E}|SGE_BACKEND_JUDITH_LAB\\SGE_BACKEND_JUDITH_LAB.csproj|solutionrelative:sge_backend_judith_lab\\interfaces\\idestinoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B34276A6-1AEC-4E71-B570-9AA6D0A5A30E}|SGE_BACKEND_JUDITH_LAB\\SGE_BACKEND_JUDITH_LAB.csproj|d:\\side\\backend-judithlab\\sge_backend_judith_lab\\interfaces\\imetodopagoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B34276A6-1AEC-4E71-B570-9AA6D0A5A30E}|SGE_BACKEND_JUDITH_LAB\\SGE_BACKEND_JUDITH_LAB.csproj|solutionrelative:sge_backend_judith_lab\\interfaces\\imetodopagoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B34276A6-1AEC-4E71-B570-9AA6D0A5A30E}|SGE_BACKEND_JUDITH_LAB\\SGE_BACKEND_JUDITH_LAB.csproj|d:\\side\\backend-judithlab\\sge_backend_judith_lab\\services\\cotizacionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B34276A6-1AEC-4E71-B570-9AA6D0A5A30E}|SGE_BACKEND_JUDITH_LAB\\SGE_BACKEND_JUDITH_LAB.csproj|solutionrelative:sge_backend_judith_lab\\services\\cotizacionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B34276A6-1AEC-4E71-B570-9AA6D0A5A30E}|SGE_BACKEND_JUDITH_LAB\\SGE_BACKEND_JUDITH_LAB.csproj|d:\\side\\backend-judithlab\\sge_backend_judith_lab\\interfaces\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B34276A6-1AEC-4E71-B570-9AA6D0A5A30E}|SGE_BACKEND_JUDITH_LAB\\SGE_BACKEND_JUDITH_LAB.csproj|solutionrelative:sge_backend_judith_lab\\interfaces\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B34276A6-1AEC-4E71-B570-9AA6D0A5A30E}|SGE_BACKEND_JUDITH_LAB\\SGE_BACKEND_JUDITH_LAB.csproj|d:\\side\\backend-judithlab\\sge_backend_judith_lab\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B34276A6-1AEC-4E71-B570-9AA6D0A5A30E}|SGE_BACKEND_JUDITH_LAB\\SGE_BACKEND_JUDITH_LAB.csproj|solutionrelative:sge_backend_judith_lab\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B34276A6-1AEC-4E71-B570-9AA6D0A5A30E}|SGE_BACKEND_JUDITH_LAB\\SGE_BACKEND_JUDITH_LAB.csproj|d:\\side\\backend-judithlab\\sge_backend_judith_lab\\controllers\\direccioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B34276A6-1AEC-4E71-B570-9AA6D0A5A30E}|SGE_BACKEND_JUDITH_LAB\\SGE_BACKEND_JUDITH_LAB.csproj|solutionrelative:sge_backend_judith_lab\\controllers\\direccioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B34276A6-1AEC-4E71-B570-9AA6D0A5A30E}|SGE_BACKEND_JUDITH_LAB\\SGE_BACKEND_JUDITH_LAB.csproj|d:\\side\\backend-judithlab\\sge_backend_judith_lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B34276A6-1AEC-4E71-B570-9AA6D0A5A30E}|SGE_BACKEND_JUDITH_LAB\\SGE_BACKEND_JUDITH_LAB.csproj|solutionrelative:sge_backend_judith_lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B34276A6-1AEC-4E71-B570-9AA6D0A5A30E}|SGE_BACKEND_JUDITH_LAB\\SGE_BACKEND_JUDITH_LAB.csproj|d:\\side\\backend-judithlab\\sge_backend_judith_lab\\services\\destinoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B34276A6-1AEC-4E71-B570-9AA6D0A5A30E}|SGE_BACKEND_JUDITH_LAB\\SGE_BACKEND_JUDITH_LAB.csproj|solutionrelative:sge_backend_judith_lab\\services\\destinoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B34276A6-1AEC-4E71-B570-9AA6D0A5A30E}|SGE_BACKEND_JUDITH_LAB\\SGE_BACKEND_JUDITH_LAB.csproj|d:\\side\\backend-judithlab\\sge_backend_judith_lab\\models\\cotizacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B34276A6-1AEC-4E71-B570-9AA6D0A5A30E}|SGE_BACKEND_JUDITH_LAB\\SGE_BACKEND_JUDITH_LAB.csproj|solutionrelative:sge_backend_judith_lab\\models\\cotizacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B34276A6-1AEC-4E71-B570-9AA6D0A5A30E}|SGE_BACKEND_JUDITH_LAB\\SGE_BACKEND_JUDITH_LAB.csproj|d:\\side\\backend-judithlab\\sge_backend_judith_lab\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B34276A6-1AEC-4E71-B570-9AA6D0A5A30E}|SGE_BACKEND_JUDITH_LAB\\SGE_BACKEND_JUDITH_LAB.csproj|solutionrelative:sge_backend_judith_lab\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B34276A6-1AEC-4E71-B570-9AA6D0A5A30E}|SGE_BACKEND_JUDITH_LAB\\SGE_BACKEND_JUDITH_LAB.csproj|d:\\side\\backend-judithlab\\sge_backend_judith_lab\\interfaces\\icotizacionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B34276A6-1AEC-4E71-B570-9AA6D0A5A30E}|SGE_BACKEND_JUDITH_LAB\\SGE_BACKEND_JUDITH_LAB.csproj|solutionrelative:sge_backend_judith_lab\\interfaces\\icotizacionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B34276A6-1AEC-4E71-B570-9AA6D0A5A30E}|SGE_BACKEND_JUDITH_LAB\\SGE_BACKEND_JUDITH_LAB.csproj|d:\\side\\backend-judithlab\\sge_backend_judith_lab\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B34276A6-1AEC-4E71-B570-9AA6D0A5A30E}|SGE_BACKEND_JUDITH_LAB\\SGE_BACKEND_JUDITH_LAB.csproj|solutionrelative:sge_backend_judith_lab\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B34276A6-1AEC-4E71-B570-9AA6D0A5A30E}|SGE_BACKEND_JUDITH_LAB\\SGE_BACKEND_JUDITH_LAB.csproj|d:\\side\\backend-judithlab\\sge_backend_judith_lab\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B34276A6-1AEC-4E71-B570-9AA6D0A5A30E}|SGE_BACKEND_JUDITH_LAB\\SGE_BACKEND_JUDITH_LAB.csproj|solutionrelative:sge_backend_judith_lab\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B34276A6-1AEC-4E71-B570-9AA6D0A5A30E}|SGE_BACKEND_JUDITH_LAB\\SGE_BACKEND_JUDITH_LAB.csproj|d:\\side\\backend-judithlab\\sge_backend_judith_lab\\mappers\\mappinprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B34276A6-1AEC-4E71-B570-9AA6D0A5A30E}|SGE_BACKEND_JUDITH_LAB\\SGE_BACKEND_JUDITH_LAB.csproj|solutionrelative:sge_backend_judith_lab\\mappers\\mappinprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B34276A6-1AEC-4E71-B570-9AA6D0A5A30E}|SGE_BACKEND_JUDITH_LAB\\SGE_BACKEND_JUDITH_LAB.csproj|d:\\side\\backend-judithlab\\sge_backend_judith_lab\\controllers\\logocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B34276A6-1AEC-4E71-B570-9AA6D0A5A30E}|SGE_BACKEND_JUDITH_LAB\\SGE_BACKEND_JUDITH_LAB.csproj|solutionrelative:sge_backend_judith_lab\\controllers\\logocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B34276A6-1AEC-4E71-B570-9AA6D0A5A30E}|SGE_BACKEND_JUDITH_LAB\\SGE_BACKEND_JUDITH_LAB.csproj|d:\\side\\backend-judithlab\\sge_backend_judith_lab\\interfaces\\idestinoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B34276A6-1AEC-4E71-B570-9AA6D0A5A30E}|SGE_BACKEND_JUDITH_LAB\\SGE_BACKEND_JUDITH_LAB.csproj|solutionrelative:sge_backend_judith_lab\\interfaces\\idestinoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B34276A6-1AEC-4E71-B570-9AA6D0A5A30E}|SGE_BACKEND_JUDITH_LAB\\SGE_BACKEND_JUDITH_LAB.csproj|d:\\side\\backend-judithlab\\sge_backend_judith_lab\\interfaces\\ilogoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B34276A6-1AEC-4E71-B570-9AA6D0A5A30E}|SGE_BACKEND_JUDITH_LAB\\SGE_BACKEND_JUDITH_LAB.csproj|solutionrelative:sge_backend_judith_lab\\interfaces\\ilogoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B34276A6-1AEC-4E71-B570-9AA6D0A5A30E}|SGE_BACKEND_JUDITH_LAB\\SGE_BACKEND_JUDITH_LAB.csproj|d:\\side\\backend-judithlab\\sge_backend_judith_lab\\interfaces\\imetodopagoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B34276A6-1AEC-4E71-B570-9AA6D0A5A30E}|SGE_BACKEND_JUDITH_LAB\\SGE_BACKEND_JUDITH_LAB.csproj|solutionrelative:sge_backend_judith_lab\\interfaces\\imetodopagoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B34276A6-1AEC-4E71-B570-9AA6D0A5A30E}|SGE_BACKEND_JUDITH_LAB\\SGE_BACKEND_JUDITH_LAB.csproj|d:\\side\\backend-judithlab\\sge_backend_judith_lab\\interfaces\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B34276A6-1AEC-4E71-B570-9AA6D0A5A30E}|SGE_BACKEND_JUDITH_LAB\\SGE_BACKEND_JUDITH_LAB.csproj|solutionrelative:sge_backend_judith_lab\\interfaces\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B34276A6-1AEC-4E71-B570-9AA6D0A5A30E}|SGE_BACKEND_JUDITH_LAB\\SGE_BACKEND_JUDITH_LAB.csproj|d:\\side\\backend-judithlab\\sge_backend_judith_lab\\interfaces\\ivendedorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B34276A6-1AEC-4E71-B570-9AA6D0A5A30E}|SGE_BACKEND_JUDITH_LAB\\SGE_BACKEND_JUDITH_LAB.csproj|solutionrelative:sge_backend_judith_lab\\interfaces\\ivendedorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B34276A6-1AEC-4E71-B570-9AA6D0A5A30E}|SGE_BACKEND_JUDITH_LAB\\SGE_BACKEND_JUDITH_LAB.csproj|d:\\side\\backend-judithlab\\sge_backend_judith_lab\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B34276A6-1AEC-4E71-B570-9AA6D0A5A30E}|SGE_BACKEND_JUDITH_LAB\\SGE_BACKEND_JUDITH_LAB.csproj|solutionrelative:sge_backend_judith_lab\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -86,166 +62,141 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MetodoPagoController.cs",
-              "DocumentMoniker": "D:\\SIDE\\BACKEND-JUDITHLAB\\SGE_BACKEND_JUDITH_LAB\\Controllers\\MetodoPagoController.cs",
-              "RelativeDocumentMoniker": "SGE_BACKEND_JUDITH_LAB\\Controllers\\MetodoPagoController.cs",
-              "ToolTip": "D:\\SIDE\\BACKEND-JUDITHLAB\\SGE_BACKEND_JUDITH_LAB\\Controllers\\MetodoPagoController.cs",
-              "RelativeToolTip": "SGE_BACKEND_JUDITH_LAB\\Controllers\\MetodoPagoController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T04:07:15.806Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IDestinoService.cs",
-              "DocumentMoniker": "D:\\SIDE\\BACKEND-JUDITHLAB\\SGE_BACKEND_JUDITH_LAB\\Interfaces\\IDestinoService.cs",
-              "RelativeDocumentMoniker": "SGE_BACKEND_JUDITH_LAB\\Interfaces\\IDestinoService.cs",
-              "ToolTip": "D:\\SIDE\\BACKEND-JUDITHLAB\\SGE_BACKEND_JUDITH_LAB\\Interfaces\\IDestinoService.cs",
-              "RelativeToolTip": "SGE_BACKEND_JUDITH_LAB\\Interfaces\\IDestinoService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T16:26:36.722Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MetodoPagoService.cs",
-              "DocumentMoniker": "D:\\SIDE\\BACKEND-JUDITHLAB\\SGE_BACKEND_JUDITH_LAB\\Services\\MetodoPagoService.cs",
-              "RelativeDocumentMoniker": "SGE_BACKEND_JUDITH_LAB\\Services\\MetodoPagoService.cs",
-              "ToolTip": "D:\\SIDE\\BACKEND-JUDITHLAB\\SGE_BACKEND_JUDITH_LAB\\Services\\MetodoPagoService.cs",
-              "RelativeToolTip": "SGE_BACKEND_JUDITH_LAB\\Services\\MetodoPagoService.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAABUAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T04:05:12.306Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IClienteService.cs",
-              "DocumentMoniker": "D:\\SIDE\\BACKEND-JUDITHLAB\\SGE_BACKEND_JUDITH_LAB\\Interfaces\\IClienteService.cs",
-              "RelativeDocumentMoniker": "SGE_BACKEND_JUDITH_LAB\\Interfaces\\IClienteService.cs",
-              "ToolTip": "D:\\SIDE\\BACKEND-JUDITHLAB\\SGE_BACKEND_JUDITH_LAB\\Interfaces\\IClienteService.cs",
-              "RelativeToolTip": "SGE_BACKEND_JUDITH_LAB\\Interfaces\\IClienteService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T04:03:45.22Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IMetodoPagoService.cs",
-              "DocumentMoniker": "D:\\SIDE\\BACKEND-JUDITHLAB\\SGE_BACKEND_JUDITH_LAB\\Interfaces\\IMetodoPagoService.cs",
-              "RelativeDocumentMoniker": "SGE_BACKEND_JUDITH_LAB\\Interfaces\\IMetodoPagoService.cs",
-              "ToolTip": "D:\\SIDE\\BACKEND-JUDITHLAB\\SGE_BACKEND_JUDITH_LAB\\Interfaces\\IMetodoPagoService.cs",
-              "RelativeToolTip": "SGE_BACKEND_JUDITH_LAB\\Interfaces\\IMetodoPagoService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T04:03:36.655Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MetodoPago.cs",
-              "DocumentMoniker": "D:\\SIDE\\BACKEND-JUDITHLAB\\SGE_BACKEND_JUDITH_LAB\\Models\\MetodoPago.cs",
-              "RelativeDocumentMoniker": "SGE_BACKEND_JUDITH_LAB\\Models\\MetodoPago.cs",
-              "ToolTip": "D:\\SIDE\\BACKEND-JUDITHLAB\\SGE_BACKEND_JUDITH_LAB\\Models\\MetodoPago.cs",
-              "RelativeToolTip": "SGE_BACKEND_JUDITH_LAB\\Models\\MetodoPago.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAzwAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T04:02:43.513Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "D:\\SIDE\\BACKEND-JUDITHLAB\\SGE_BACKEND_JUDITH_LAB\\Models\\Cliente.cs",
-              "RelativeDocumentMoniker": "SGE_BACKEND_JUDITH_LAB\\Models\\Cliente.cs",
-              "ToolTip": "D:\\SIDE\\BACKEND-JUDITHLAB\\SGE_BACKEND_JUDITH_LAB\\Models\\Cliente.cs",
-              "RelativeToolTip": "SGE_BACKEND_JUDITH_LAB\\Models\\Cliente.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-04T22:24:02.152Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\SIDE\\BACKEND-JUDITHLAB\\SGE_BACKEND_JUDITH_LAB\\Program.cs",
               "RelativeDocumentMoniker": "SGE_BACKEND_JUDITH_LAB\\Program.cs",
               "ToolTip": "D:\\SIDE\\BACKEND-JUDITHLAB\\SGE_BACKEND_JUDITH_LAB\\Program.cs",
               "RelativeToolTip": "SGE_BACKEND_JUDITH_LAB\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAIAwwBEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvxYAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T23:01:53.971Z"
+              "WhenOpened": "2026-01-15T06:52:57.113Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ILogoService.cs",
-              "DocumentMoniker": "D:\\SIDE\\BACKEND-JUDITHLAB\\SGE_BACKEND_JUDITH_LAB\\Interfaces\\ILogoService.cs",
-              "RelativeDocumentMoniker": "SGE_BACKEND_JUDITH_LAB\\Interfaces\\ILogoService.cs",
-              "ToolTip": "D:\\SIDE\\BACKEND-JUDITHLAB\\SGE_BACKEND_JUDITH_LAB\\Interfaces\\ILogoService.cs",
-              "RelativeToolTip": "SGE_BACKEND_JUDITH_LAB\\Interfaces\\ILogoService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T21:47:39.72Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "UsuarioController.cs",
-              "DocumentMoniker": "D:\\SIDE\\BACKEND-JUDITHLAB\\SGE_BACKEND_JUDITH_LAB\\Controllers\\UsuarioController.cs",
-              "RelativeDocumentMoniker": "SGE_BACKEND_JUDITH_LAB\\Controllers\\UsuarioController.cs",
-              "ToolTip": "D:\\SIDE\\BACKEND-JUDITHLAB\\SGE_BACKEND_JUDITH_LAB\\Controllers\\UsuarioController.cs",
-              "RelativeToolTip": "SGE_BACKEND_JUDITH_LAB\\Controllers\\UsuarioController.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAADgvyMAAABPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T21:23:33.829Z",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\SIDE\\BACKEND-JUDITHLAB\\SGE_BACKEND_JUDITH_LAB\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "SGE_BACKEND_JUDITH_LAB\\appsettings.Development.json",
+              "ToolTip": "D:\\SIDE\\BACKEND-JUDITHLAB\\SGE_BACKEND_JUDITH_LAB\\appsettings.Development.json",
+              "RelativeToolTip": "SGE_BACKEND_JUDITH_LAB\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAClAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-15T06:48:28.009Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ICotizacionService.cs",
-              "DocumentMoniker": "D:\\SIDE\\BACKEND-JUDITHLAB\\SGE_BACKEND_JUDITH_LAB\\Interfaces\\ICotizacionService.cs",
-              "RelativeDocumentMoniker": "SGE_BACKEND_JUDITH_LAB\\Interfaces\\ICotizacionService.cs",
-              "ToolTip": "D:\\SIDE\\BACKEND-JUDITHLAB\\SGE_BACKEND_JUDITH_LAB\\Interfaces\\ICotizacionService.cs",
-              "RelativeToolTip": "SGE_BACKEND_JUDITH_LAB\\Interfaces\\ICotizacionService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAFAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "CotizacionService.cs",
+              "DocumentMoniker": "D:\\SIDE\\BACKEND-JUDITHLAB\\SGE_BACKEND_JUDITH_LAB\\Services\\CotizacionService.cs",
+              "RelativeDocumentMoniker": "SGE_BACKEND_JUDITH_LAB\\Services\\CotizacionService.cs",
+              "ToolTip": "D:\\SIDE\\BACKEND-JUDITHLAB\\SGE_BACKEND_JUDITH_LAB\\Services\\CotizacionService.cs",
+              "RelativeToolTip": "SGE_BACKEND_JUDITH_LAB\\Services\\CotizacionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T21:21:29.886Z"
+              "WhenOpened": "2026-01-15T06:25:44.453Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ClienteController.cs",
-              "DocumentMoniker": "D:\\SIDE\\BACKEND-JUDITHLAB\\SGE_BACKEND_JUDITH_LAB\\Controllers\\ClienteController.cs",
-              "RelativeDocumentMoniker": "SGE_BACKEND_JUDITH_LAB\\Controllers\\ClienteController.cs",
-              "ToolTip": "D:\\SIDE\\BACKEND-JUDITHLAB\\SGE_BACKEND_JUDITH_LAB\\Controllers\\ClienteController.cs",
-              "RelativeToolTip": "SGE_BACKEND_JUDITH_LAB\\Controllers\\ClienteController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T21:36:33.461Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 4,
               "Title": "DestinoService.cs",
               "DocumentMoniker": "D:\\SIDE\\BACKEND-JUDITHLAB\\SGE_BACKEND_JUDITH_LAB\\Services\\DestinoService.cs",
               "RelativeDocumentMoniker": "SGE_BACKEND_JUDITH_LAB\\Services\\DestinoService.cs",
               "ToolTip": "D:\\SIDE\\BACKEND-JUDITHLAB\\SGE_BACKEND_JUDITH_LAB\\Services\\DestinoService.cs",
               "RelativeToolTip": "SGE_BACKEND_JUDITH_LAB\\Services\\DestinoService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T16:20:01.221Z"
+              "WhenOpened": "2026-01-15T06:25:43.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICotizacionService.cs",
+              "DocumentMoniker": "D:\\SIDE\\BACKEND-JUDITHLAB\\SGE_BACKEND_JUDITH_LAB\\Interfaces\\ICotizacionService.cs",
+              "RelativeDocumentMoniker": "SGE_BACKEND_JUDITH_LAB\\Interfaces\\ICotizacionService.cs",
+              "ToolTip": "D:\\SIDE\\BACKEND-JUDITHLAB\\SGE_BACKEND_JUDITH_LAB\\Interfaces\\ICotizacionService.cs",
+              "RelativeToolTip": "SGE_BACKEND_JUDITH_LAB\\Interfaces\\ICotizacionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T06:23:05.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IDestinoService.cs",
+              "DocumentMoniker": "D:\\SIDE\\BACKEND-JUDITHLAB\\SGE_BACKEND_JUDITH_LAB\\Interfaces\\IDestinoService.cs",
+              "RelativeDocumentMoniker": "SGE_BACKEND_JUDITH_LAB\\Interfaces\\IDestinoService.cs",
+              "ToolTip": "D:\\SIDE\\BACKEND-JUDITHLAB\\SGE_BACKEND_JUDITH_LAB\\Interfaces\\IDestinoService.cs",
+              "RelativeToolTip": "SGE_BACKEND_JUDITH_LAB\\Interfaces\\IDestinoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T06:23:01.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ILogoService.cs",
+              "DocumentMoniker": "D:\\SIDE\\BACKEND-JUDITHLAB\\SGE_BACKEND_JUDITH_LAB\\Interfaces\\ILogoService.cs",
+              "RelativeDocumentMoniker": "SGE_BACKEND_JUDITH_LAB\\Interfaces\\ILogoService.cs",
+              "ToolTip": "D:\\SIDE\\BACKEND-JUDITHLAB\\SGE_BACKEND_JUDITH_LAB\\Interfaces\\ILogoService.cs",
+              "RelativeToolTip": "SGE_BACKEND_JUDITH_LAB\\Interfaces\\ILogoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T06:22:58.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IMetodoPagoService.cs",
+              "DocumentMoniker": "D:\\SIDE\\BACKEND-JUDITHLAB\\SGE_BACKEND_JUDITH_LAB\\Interfaces\\IMetodoPagoService.cs",
+              "RelativeDocumentMoniker": "SGE_BACKEND_JUDITH_LAB\\Interfaces\\IMetodoPagoService.cs",
+              "ToolTip": "D:\\SIDE\\BACKEND-JUDITHLAB\\SGE_BACKEND_JUDITH_LAB\\Interfaces\\IMetodoPagoService.cs",
+              "RelativeToolTip": "SGE_BACKEND_JUDITH_LAB\\Interfaces\\IMetodoPagoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T06:22:56.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUsuarioService.cs",
+              "DocumentMoniker": "D:\\SIDE\\BACKEND-JUDITHLAB\\SGE_BACKEND_JUDITH_LAB\\Interfaces\\IUsuarioService.cs",
+              "RelativeDocumentMoniker": "SGE_BACKEND_JUDITH_LAB\\Interfaces\\IUsuarioService.cs",
+              "ToolTip": "D:\\SIDE\\BACKEND-JUDITHLAB\\SGE_BACKEND_JUDITH_LAB\\Interfaces\\IUsuarioService.cs",
+              "RelativeToolTip": "SGE_BACKEND_JUDITH_LAB\\Interfaces\\IUsuarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T06:22:51.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IVendedorService.cs",
+              "DocumentMoniker": "D:\\SIDE\\BACKEND-JUDITHLAB\\SGE_BACKEND_JUDITH_LAB\\Interfaces\\IVendedorService.cs",
+              "RelativeDocumentMoniker": "SGE_BACKEND_JUDITH_LAB\\Interfaces\\IVendedorService.cs",
+              "ToolTip": "D:\\SIDE\\BACKEND-JUDITHLAB\\SGE_BACKEND_JUDITH_LAB\\Interfaces\\IVendedorService.cs",
+              "RelativeToolTip": "SGE_BACKEND_JUDITH_LAB\\Interfaces\\IVendedorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T06:22:49.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IClienteService.cs",
+              "DocumentMoniker": "D:\\SIDE\\BACKEND-JUDITHLAB\\SGE_BACKEND_JUDITH_LAB\\Interfaces\\IClienteService.cs",
+              "RelativeDocumentMoniker": "SGE_BACKEND_JUDITH_LAB\\Interfaces\\IClienteService.cs",
+              "ToolTip": "D:\\SIDE\\BACKEND-JUDITHLAB\\SGE_BACKEND_JUDITH_LAB\\Interfaces\\IClienteService.cs",
+              "RelativeToolTip": "SGE_BACKEND_JUDITH_LAB\\Interfaces\\IClienteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T06:22:34.172Z"
             },
             {
               "$type": "Document",
@@ -255,69 +206,21 @@
               "RelativeDocumentMoniker": "SGE_BACKEND_JUDITH_LAB\\Services\\ClienteService.cs",
               "ToolTip": "D:\\SIDE\\BACKEND-JUDITHLAB\\SGE_BACKEND_JUDITH_LAB\\Services\\ClienteService.cs",
               "RelativeToolTip": "SGE_BACKEND_JUDITH_LAB\\Services\\ClienteService.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T21:45:22.191Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "DireccionController.cs",
-              "DocumentMoniker": "D:\\SIDE\\BACKEND-JUDITHLAB\\SGE_BACKEND_JUDITH_LAB\\Controllers\\DireccionController.cs",
-              "RelativeDocumentMoniker": "SGE_BACKEND_JUDITH_LAB\\Controllers\\DireccionController.cs",
-              "ToolTip": "D:\\SIDE\\BACKEND-JUDITHLAB\\SGE_BACKEND_JUDITH_LAB\\Controllers\\DireccionController.cs",
-              "RelativeToolTip": "SGE_BACKEND_JUDITH_LAB\\Controllers\\DireccionController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAcwBYAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T16:23:52.288Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "D:\\SIDE\\BACKEND-JUDITHLAB\\SGE_BACKEND_JUDITH_LAB\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "SGE_BACKEND_JUDITH_LAB\\appsettings.Development.json",
-              "ToolTip": "D:\\SIDE\\BACKEND-JUDITHLAB\\SGE_BACKEND_JUDITH_LAB\\appsettings.Development.json",
-              "RelativeToolTip": "SGE_BACKEND_JUDITH_LAB\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-30T15:13:54.385Z"
+              "WhenOpened": "2026-01-15T06:22:30.011Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "Cotizacion.cs",
-              "DocumentMoniker": "D:\\SIDE\\BACKEND-JUDITHLAB\\SGE_BACKEND_JUDITH_LAB\\Models\\Cotizacion.cs",
-              "RelativeDocumentMoniker": "SGE_BACKEND_JUDITH_LAB\\Models\\Cotizacion.cs",
-              "ToolTip": "D:\\SIDE\\BACKEND-JUDITHLAB\\SGE_BACKEND_JUDITH_LAB\\Models\\Cotizacion.cs",
-              "RelativeToolTip": "SGE_BACKEND_JUDITH_LAB\\Models\\Cotizacion.cs",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAowFEAAAA/AAAAAAAAAA==",
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "D:\\SIDE\\BACKEND-JUDITHLAB\\SGE_BACKEND_JUDITH_LAB\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "SGE_BACKEND_JUDITH_LAB\\Models\\Cliente.cs",
+              "ToolTip": "D:\\SIDE\\BACKEND-JUDITHLAB\\SGE_BACKEND_JUDITH_LAB\\Models\\Cliente.cs",
+              "RelativeToolTip": "SGE_BACKEND_JUDITH_LAB\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-04T21:17:26.606Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "LogoController.cs",
-              "DocumentMoniker": "D:\\SIDE\\BACKEND-JUDITHLAB\\SGE_BACKEND_JUDITH_LAB\\Controllers\\LogoController.cs",
-              "RelativeDocumentMoniker": "SGE_BACKEND_JUDITH_LAB\\Controllers\\LogoController.cs",
-              "ToolTip": "D:\\SIDE\\BACKEND-JUDITHLAB\\SGE_BACKEND_JUDITH_LAB\\Controllers\\LogoController.cs",
-              "RelativeToolTip": "SGE_BACKEND_JUDITH_LAB\\Controllers\\LogoController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T21:46:20.755Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "MappinProfile.cs",
-              "DocumentMoniker": "D:\\SIDE\\BACKEND-JUDITHLAB\\SGE_BACKEND_JUDITH_LAB\\Mappers\\MappinProfile.cs",
-              "RelativeDocumentMoniker": "SGE_BACKEND_JUDITH_LAB\\Mappers\\MappinProfile.cs",
-              "ToolTip": "D:\\SIDE\\BACKEND-JUDITHLAB\\SGE_BACKEND_JUDITH_LAB\\Mappers\\MappinProfile.cs",
-              "RelativeToolTip": "SGE_BACKEND_JUDITH_LAB\\Mappers\\MappinProfile.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T22:23:43.63Z"
+              "WhenOpened": "2026-01-15T06:14:54.312Z"
             }
           ]
         }
